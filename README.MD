@@ -1,5 +1,5 @@
 ## Command
-
+Привет мир!
 
 git init - инициализация репозитория
 git remote add origin git@github.com:a-berezhkov/bears_top.git
